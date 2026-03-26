@@ -61,7 +61,7 @@ export const companyGoals = [
 export const marketingGoals = [
   {
     id: 1,
-    title: 'Reposition Rebiz from Point Solution to Platform',
+    title: 'Establish Rebiz as the Multi-Vertical Platform',
     description:
       "Ensure the total market understands Rebiz's expanded product story across wireless and new verticals — car washes, mattress stores, jewelry, and beyond. Build segment-specific messaging and positioning for each new category through brand awareness, refined positioning, and revamped product content.",
     enablesGoals: [3, 2],  // company goal IDs
@@ -69,7 +69,7 @@ export const marketingGoals = [
   },
   {
     id: 2,
-    title: 'Lead Full-Funnel Strategies for Enterprise & Mid-Market',
+    title: 'Drive Enterprise Growth Through Partnerships',
     description:
       'Differentiate GTM for enterprise and mid-market with tailored messaging and campaigns. Amplify the existing partnership channel — POS systems and accessory distributors are proven enterprise door-openers — through joint webinars, co-authored case studies, and referral programs.',
     enablesGoals: [1, 3, 5],
@@ -77,7 +77,7 @@ export const marketingGoals = [
   },
   {
     id: 3,
-    title: 'Turn PLG into a Real Growth Lever',
+    title: 'Convert Pilots into Revenue with Customer Proof',
     description:
       'Reduce friction across awareness → pilot → activation → proof → expansion. Fuel conversion with customer proof assets — case studies, testimonials, and ROI stories — that give mid-market buyers the confidence to commit and expand.',
     enablesGoals: [3, 4, 5],
@@ -85,7 +85,7 @@ export const marketingGoals = [
   },
   {
     id: 4,
-    title: 'Uplevel the Team into a Modern, High-Leverage Function',
+    title: 'Build an AI-Forward GTM Operating Model',
     description:
       'Build stronger product marketing, ABM, and content firepower. Close the product data layer gap to enable dynamic, personalized content at scale — no more manual 1:1 builds. Leverage AI to amplify impact and efficiency across every marketing function.',
     enablesGoals: [5, 1],
@@ -93,7 +93,7 @@ export const marketingGoals = [
   },
   {
     id: 5,
-    title: 'Build a Predictable Pipeline Engine',
+    title: "Build Rebiz's First Real Pipeline Engine",
     description:
       "Build the first real pipeline engine at Rebiz. Today, 99% of leads are sales-generated through grassroots efforts — marketing's mandate is to change that. Lead the shift from data-heavy to insights-heavy: translate product metrics into customer value narratives that drive measurable, attributable pipeline.",
     enablesGoals: [1, 2, 5],
