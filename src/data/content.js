@@ -79,9 +79,9 @@ export const marketingGoals = [
     id: 3,
     title: 'Turn PLG into a Real Growth Lever',
     description:
-      'Reduce friction across awareness → pilot → activation → proof → expansion. Build a pilot-to-revenue conversion program with streamlined onboarding, education, and expansion triggers.',
+      'Reduce friction across awareness → pilot → activation → proof → expansion. Fuel conversion with customer proof assets — case studies, testimonials, and ROI stories — that give mid-market buyers the confidence to commit and expand.',
     enablesGoals: [3, 4, 5],
-    tags: ['PLG', 'Mid-Market', 'Lifecycle'],
+    tags: ['PLG', 'Advocacy', 'Lifecycle'],
   },
   {
     id: 4,
