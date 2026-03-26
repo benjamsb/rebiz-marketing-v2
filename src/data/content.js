@@ -63,17 +63,17 @@ export const marketingGoals = [
     id: 1,
     title: 'Reposition Rebiz from Point Solution to Platform',
     description:
-      "Ensure the total market understands Rebiz's expanded product story and new TAM through top-of-funnel brand awareness, refined positioning, revamped product content, and bottom-funnel enablement.",
+      "Ensure the total market understands Rebiz's expanded product story across wireless and new verticals — car washes, mattress stores, jewelry, and beyond. Build segment-specific messaging and positioning for each new category through brand awareness, refined positioning, and revamped product content.",
     enablesGoals: [3, 2],  // company goal IDs
-    tags: ['Brand', 'Positioning', 'Content'],
+    tags: ['Brand', 'Positioning', 'Verticals'],
   },
   {
     id: 2,
     title: 'Lead Full-Funnel Strategies for Enterprise & Mid-Market',
     description:
-      'Differentiate GTM for enterprise and mid-market segments with tailored messaging, channels, and campaigns. Unify the GTM engine for a seamless customer journey across each segment.',
+      'Differentiate GTM for enterprise and mid-market with tailored messaging and campaigns. Amplify the existing partnership channel — POS systems and accessory distributors are proven enterprise door-openers — through joint webinars, co-authored case studies, and referral programs.',
     enablesGoals: [1, 3, 5],
-    tags: ['Enterprise', 'Mid-Market', 'Demand Gen'],
+    tags: ['Enterprise', 'Partnerships', 'Demand Gen'],
   },
   {
     id: 3,
@@ -87,7 +87,7 @@ export const marketingGoals = [
     id: 4,
     title: 'Uplevel the Team into a Modern, High-Leverage Function',
     description:
-      'Build stronger product marketing, ABM, content, and overall firepower. Leverage AI to make all marketing initiatives more impactful and efficient without over-hiring.',
+      'Build stronger product marketing, ABM, and content firepower. Close the product data layer gap to enable dynamic, personalized content at scale — no more manual 1:1 builds. Leverage AI to amplify impact and efficiency across every marketing function.',
     enablesGoals: [5, 1],
     tags: ['Team', 'AI', 'Operations'],
   },
@@ -95,9 +95,9 @@ export const marketingGoals = [
     id: 5,
     title: 'Build a Predictable Pipeline Engine',
     description:
-      "Improve marketing's contribution to ARR while making funnel performance measurable, repeatable, and segment-aware. Stand up solid funnels with sophisticated lead handling and ABM for top enterprise accounts.",
+      "Build the first real pipeline engine at Rebiz. Today, 99% of leads are sales-generated through grassroots efforts — marketing's mandate is to change that. Lead the shift from data-heavy to insights-heavy: translate product metrics into customer value narratives that drive measurable, attributable pipeline.",
     enablesGoals: [1, 2, 5],
-    tags: ['Pipeline', 'ABM', 'Attribution'],
+    tags: ['Pipeline', 'Attribution', 'Insights'],
   },
 ];
 
