@@ -61,7 +61,7 @@ export const companyGoals = [
 export const marketingGoals = [
   {
     id: 1,
-    title: "Build Rebiz's First Real Pipeline Engine",
+    title: "Build Rebiz's First Marketing-Driven Revenue Engine",
     description:
       "Build the first real pipeline engine at Rebiz. Today, 99% of leads are sales-generated through grassroots efforts — marketing's mandate is to change that. Lead the shift from data-heavy to insights-heavy: translate product metrics into customer value narratives that drive measurable, attributable pipeline.",
     enablesGoals: [1, 2, 5],
@@ -69,7 +69,7 @@ export const marketingGoals = [
   },
   {
     id: 2,
-    title: 'Establish Rebiz as the Multi-Vertical Platform',
+    title: 'Lead Expansion Across New Verticals',
     description:
       "Ensure the total market understands Rebiz's expanded product story across wireless and new verticals — car washes, mattress stores, jewelry, and beyond. Build segment-specific messaging and positioning for each new category through brand awareness, refined positioning, and revamped product content.",
     enablesGoals: [3, 2],  // company goal IDs
