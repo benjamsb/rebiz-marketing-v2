@@ -19,7 +19,7 @@ export default function MarketingGoals() {
       <SectionHeader
         eyebrow="Marketing Goals"
         title="Transforming Rebiz Marketing"
-        subtitle="When marketing wins, the whole company feels it. These initiatives are designed to accelerate revenue, hand sales better-qualified pipeline, give product sharper market signal, and help CS expand and retain more customers."
+        subtitle="Initiatives to accelerate revenue, hand sales better-qualified pipeline, give product sharper market signal, and help CS expand and retain more customers."
       />
 
       {/* Two-column layout: left = goal list, right = detail panel */}
